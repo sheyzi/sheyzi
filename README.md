@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheyzi
+- 👋 Hi, I’m Oluwaseyifunmi Oyefeso
 - 👀 I’m interested in software, web development and operating systems
 - 🌱 I’m currently learning c++ and c
 - 💞️ I’m looking to collaborate on any web project with Django, flask or expressJs
