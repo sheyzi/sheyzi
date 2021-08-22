@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwaseyifunmi Oyefeso
 - 👀 I’m interested in software, web and operating systems development
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on any software or web based project
+- 🌱 I’m currently learning React and React Native
+- 💞️ I’m looking to collaborate on any software or web based project using Python FastAPI, Django, Vue, React or React Native 
 - 📫 You can reach me at seyioyefeso33@gmail.com or +2349070933598
 
 <!---
