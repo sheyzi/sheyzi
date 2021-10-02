@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Oluwaseyifunmi Oyefeso
-- 👀 I’m interested in software, web and operating systems development
-- 🌱 I’m currently learning React and React Native
-- 💞️ I’m looking to collaborate on any software or web based project using Python FastAPI, Django, Vue, React or React Native 
-- 📫 You can reach me at seyioyefeso33@gmail.com or +2349070933598
+- 👀 I’m a web, mobile and desktop developer
+- 🌱 I’m currently learning Svelte and Sveltekit
+- 💞️ I’m looking to collaborate on any software or web based project using Python FastAPI, Django, Nuxt, Svelte or React Native
+- 📫 You can reach me at gistkiosk@gmail.com or +2349070933598
 
 <!---
 sheyziSilver/sheyziSilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
