@@ -12,7 +12,7 @@
 ### About Me
 
 Hi there! I'm a full stack developer with experience in a wide range of technologies and programming languages. I have a passion for creating intuitive, user-friendly web applications, and I enjoy tackling complex problems and finding innovative solutions. In my current role, I work on both the front-end and back-end of a web application, using my skills in languages like JavaScript, HTML, and CSS to create dynamic and engaging user experiences, and using languages like Python and Ruby to build and maintain the application's underlying infrastructure. I'm always looking for ways to improve my skills and stay up-to-date with the latest trends in web development, and I'm excited to contribute to new and exciting projects on GitHub.
----
+
 
 
 
