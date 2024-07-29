@@ -1,6 +1,6 @@
 <h1 align="center">I'm Oluwaseyifunmi Oyefeso</h1>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/sheyzi?label=Connect%20With%20Me%20On%20Twitter&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/sheyzi?label=Connect%20With%20Me%20On%20X&style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC01AnYRuGtQHXJG3G5-CwSg?label=Subscribe%20To%20My%20Channel)
 
 <h3 align="left">My Tech Stack:</h3>
